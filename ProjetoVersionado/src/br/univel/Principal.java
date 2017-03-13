@@ -4,7 +4,7 @@ public class Principal {
 
 	public static void main(String[] args) {
 		
-		String msg = "OLá Mundo!";
+		String msg = "Hello Word!";
 		System.out.println(msg);
 		
 		
